@@ -1,0 +1,26 @@
+{
+  "name": "log-botu",
+  "version": "0.0.1",
+  "description": "Log Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "discord-logs": "^1.9.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Reawen",
+    "Serendia",
+    ".gg/Serendia"
+  ]
+}
