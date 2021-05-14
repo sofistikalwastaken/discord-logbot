@@ -3,7 +3,7 @@ const client = (global.client = new Discord.Client());
 const { TextChannel, MessageEmbed, Guild } = require("discord.js")
 const db = require("quick.db")
 const logs = require("discord-logs")
-client(logs)
+logs(client)
 client.log = "Log Kanal ID'si";
 client.Token = "Token";
 
