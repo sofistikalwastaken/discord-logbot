@@ -1,1 +1,1 @@
-# Log-Bot
+https://discord.com/invite/serendia
